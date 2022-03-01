@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oren-Arg
+- 👋 Hi, I’m @Oren-Arg, a renegade mechanical engineer with experience in additive manufacturin. Looking forward to start my career as a SW developer.
 - 👀 I’m interested in 3D printing and coding
 - 🌱 I’m currently learning Full Stack development.
 
