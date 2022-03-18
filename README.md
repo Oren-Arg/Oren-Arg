@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Oren-Arg, a mechanical engineer with experience in additive manufacturing. Looking forward to start my career as a SW developer.
-- 👀 I’m interested in 3D printing and coding
+- 👋 Hi, I’m @Oren-Arg, a mechanical engineer with experience in additive manufacturing & an aspiring software developer.
+- 👀 I’m interested in 3D printing.
 - 🌱 I’m currently learning Full Stack development.
 
 <!---
