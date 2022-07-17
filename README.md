@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Oren-Arg, a mechanical engineer with experience in additive manufacturing & an aspiring software developer.
+- 👋 Hi, I’m @Oren-Arg, a mechanical engineer with experience in additive manufacturing.
 - 👀 I’m interested in 3D printing.
 - 🌱 I’m currently learning Full Stack development.
 
